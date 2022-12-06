@@ -1424,3 +1424,4 @@ botao_ConsultaT.grid(row=3, column=2, sticky="e", padx=15, pady=15 , ipadx=50)
 
 # ==================================================================================================
 janela.mainloop()
+https://youtu.be/yvcj0AV3P-k
